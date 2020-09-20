@@ -1,0 +1,9 @@
+#surefire_0
+#Sun Sep 20 08:58:17 PST 2020
+environment=prod
+browser=chrome
+user.dir=/home/rudreshuar/Downloads/batch3latest
+suiteXmlFile=webtests.xml
+idea.version=2020.2.2
+localRepository=/home/rudreshuar/.m2/repository
+basedir=/home/rudreshuar/Downloads/batch3latest
